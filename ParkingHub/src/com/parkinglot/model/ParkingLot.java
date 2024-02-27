@@ -18,7 +18,7 @@ public class ParkingLot {
 	
 	
 	private void initializeFloors(int numberOfFloors, Map<VehicleType, Integer> capacityPerType) {
-		for(int i=0; i<numberOfFloors; i++) {
+		for(int i=1; i<=numberOfFloors; i++) {
 			floors.add(new Floor(i, capacityPerType));
 		}
 	}

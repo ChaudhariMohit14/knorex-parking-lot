@@ -53,7 +53,7 @@ public class Floor {
 			int capacity = capacityPerType.get(type);
 			List<VehicleSpace> spaces = new ArrayList<>(capacity);
 			
-			for(int i=0; i<capacity; i++) {
+			for(int i=1; i<=capacity; i++) {
 				spaces.add(new VehicleSpace(i, true, type));
 			}
 			
