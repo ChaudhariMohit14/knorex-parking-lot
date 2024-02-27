@@ -22,3 +22,17 @@ Vehicles can be removed from the parking lot by providing their registration num
 
 ### 4.Checking Availability:
 Availability of parking spaces on a specific floor for a given vehicle type can be checked.
+
+
+## Getting Started
+To get started with the ParkingHub project, follow these steps:
+
+Clone the Repository: git clone https://github.com/ChaudhariMohit14/knorex-parking-lot
+Open the project in your preferred Java IDE.
+Run the project.
+
+## Tech Stack
+Java, Console-based interface
+
+## Contact
+For any questions or inquiries, please contact Mohit Chaudhari at chaudharimohit1410@gmail.com
